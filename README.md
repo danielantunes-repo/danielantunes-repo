@@ -16,7 +16,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -24,7 +24,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -32,7 +32,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -41,7 +41,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="Git" 
     title="Git"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -49,7 +49,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="Python" 
     title="Python"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -58,7 +58,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
@@ -67,7 +67,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="Numpy" 
     title="Numpy"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
 />
@@ -76,7 +76,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
@@ -85,7 +85,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="MySql" 
     title="MySql"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -94,7 +94,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="PostgreSql" 
     title="PostgreSql"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
@@ -103,7 +103,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
@@ -112,7 +112,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="Google Cloud Platform" 
     title="Google Cloud Platform"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" 
 />
@@ -121,7 +121,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="Databricks" 
     title="Databricks"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" 
 />
@@ -130,7 +130,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="Power BI" 
     title="Power BI"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" 
 />
@@ -139,7 +139,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="Looker Studio" 
     title="Looker Studio"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" 
 />
@@ -148,7 +148,7 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     align="left" 
     alt="VScode" 
     title="VScode"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
 />
