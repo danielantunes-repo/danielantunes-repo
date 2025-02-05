@@ -155,6 +155,9 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
 
 <br/>
 <br/>
+<br/>
+<br/>
+---
 
 ### 📊 Estatísticas
 
