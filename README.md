@@ -152,16 +152,15 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
 />
-
-<br/>
-<br/>
-<br/>
 <br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
 
+<br/>
 ### 📊 Estatísticas
-
-
 
 <img 
       align="left" 
