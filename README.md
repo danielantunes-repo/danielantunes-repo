@@ -160,8 +160,10 @@ Meu objetivo é crescer como analista de dados e colaborar com organizações qu
 <br/>
 
 <br/>
+
 ### 📊 Estatísticas
 
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
