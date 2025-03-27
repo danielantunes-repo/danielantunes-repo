@@ -42,7 +42,7 @@ Atualmente estou particapando do programa Acelera Maker da Montreal (FULLSTACK),
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 
 <img 
