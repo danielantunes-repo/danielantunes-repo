@@ -3,7 +3,7 @@
 **`Desenvolvedor Web`**
 
 Me chamo Daniel Antunes, sou desenvolvedor web apaixonado por tecnologias. Tenho experiência prática e acadêmica com Javascript, Java, Python(para analise de dados), SQL e GCP para manipulação, limpeza e análise de grandes volumes de dados. Desenvolvo dashboards interativos no Power BI e Looker Studio, facilitando decisões baseadas em dados.
-Atualmente estou particapando do programa Acelera Maker da Montreal (FULLSTACK), onde estou fortalecendoo meus conhecimentos em Java, Angular e React, com acompnhamentos semanais como mentorias e projetos.
+Atualmente estou particapando do programa Acelera Maker da Montreal (Desenvolvimento web FULLSTACK), onde estou fortalecendoo meus conhecimentos em Java, Angular e React, com acompanhamentos semanais como mentorias e projetos.
 
 
 
@@ -83,24 +83,6 @@ Atualmente estou particapando do programa Acelera Maker da Montreal (FULLSTACK),
 
 <img 
     align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Numpy" 
-    title="Numpy"
-    width="30px" 
-    style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
@@ -142,33 +124,6 @@ Atualmente estou particapando do programa Acelera Maker da Montreal (FULLSTACK),
     width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" 
-/>
-
-<img 
-    align="left" 
-    alt="Databricks" 
-    title="Databricks"
-    width="30px" 
-    style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" 
-/>
-
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
-    src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" 
-/>
-
-<img 
-    align="left" 
-    alt="Looker Studio" 
-    title="Looker Studio"
-    width="30px" 
-    style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
-    src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" 
 />
 
 <img 
