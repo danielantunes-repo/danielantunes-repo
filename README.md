@@ -27,6 +27,16 @@ Atualmente estou particapando do programa Acelera Maker da Montreal (FULLSTACK),
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -38,11 +48,20 @@ Atualmente estou particapando do programa Acelera Maker da Montreal (FULLSTACK),
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Angular" 
+    title="Angular"
     width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <img 
@@ -159,6 +178,15 @@ Atualmente estou particapando do programa Acelera Maker da Montreal (FULLSTACK),
     width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Eclipse" 
+    title="Eclipse"
+    width="30px" 
+    style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
 />
 <br/>
 <br/>
