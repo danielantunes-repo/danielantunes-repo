@@ -25,7 +25,7 @@ Atualmente estou particapando do programa Acelera Maker da Montreal (FULLSTACK),
     title="CSS"
     width="30px" 
     style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
