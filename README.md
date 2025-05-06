@@ -117,14 +117,6 @@ Atualmente estou particapando do programa Acelera Maker da Montreal (Desenvolvim
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Google Cloud Platform" 
-    title="Google Cloud Platform"
-    width="30px" 
-    style="padding-right: 10px; padding-bottom: 10px; padding-top: 10px;"
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" 
-/>
 
 <img 
     align="left" 
