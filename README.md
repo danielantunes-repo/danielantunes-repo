@@ -2,8 +2,13 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Daniel Antunes, sou desenvolvedor web apaixonado por tecnologias. Tenho experiência prática e acadêmica com Javascript, Java, Python(para analise de dados), SQL e GCP para manipulação, limpeza e análise de grandes volumes de dados. Desenvolvo dashboards interativos no Power BI e Looker Studio, facilitando decisões baseadas em dados.
-Atualmente estou particapando do programa Acelera Maker da Montreal (Desenvolvimento web FULLSTACK), onde estou fortalecendoo meus conhecimentos em Java, Angular e React, com acompanhamentos semanais como mentorias e projetos.
+Sou Daniel Antunes, desenvolvedor com experiência em JavaScript, Java, Angular, React e Next.js. Atualmente atuo como Desenvolvedor Frontend na Bondi e Trainee na Tempest, onde contribuo para projetos focados em experiência do usuário, performance e design intuitivo.
+
+
+O que me move:
+✅ Criar soluções que realmente impactem a vida das pessoas
+✅ Otimizar fluxos e melhorar a usabilidade de plataformas
+✅ Unir inovação com funcionalidade
 
 
 
