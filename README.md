@@ -4,14 +4,6 @@
 
 Sou Daniel Antunes, desenvolvedor com experiência em JavaScript, Java, Angular, React e Next.js. Atualmente atuo como Desenvolvedor Frontend na Bondi e Trainee na Tempest, onde contribuo para projetos focados em experiência do usuário, performance e design intuitivo.
 
-
-O que me move:
-✅ Criar soluções que realmente impactem a vida das pessoas
-✅ Otimizar fluxos e melhorar a usabilidade de plataformas
-✅ Unir inovação com funcionalidade
-
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
